@@ -10,7 +10,7 @@ I'm creating a small Java project each day to help me learn Java. These aren't r
 ### Points of Interest
 
 + Learned `.join()` on a thread doesn't wait for all children threads to join
-+ Learned that `ConcurrentLinkedQueue` is a really simple way to tack all child threads to wait for them to join
++ Learned that `ConcurrentLinkedQueue` is a really simple way to track all child threads to wait for them to join
 + Actually learned how to multi-thread in Java, instead of the simple examples people put online
 
 ### Using `PrimeFactorizaton`
